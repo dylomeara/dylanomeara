@@ -13,7 +13,9 @@ website:
 
 format:
   html:
-    theme: vapor
+    theme: 
+    - vapor
+    embed-resources: true
     mainfont: arial
     fontsize: 1.5rem
     fontcolor: "#E5E7E9"
