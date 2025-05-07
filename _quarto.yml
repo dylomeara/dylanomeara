@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Dylan M O'Meara"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+#      - about.qmd
+      - Hobbies.qmd
+
+format:
+  html:
+    theme: vapor
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#E5E7E9"
+    linkcolor: "#CC248A"
+    monofont: courier new
+
+
+

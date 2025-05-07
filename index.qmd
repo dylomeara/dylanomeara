@@ -1,0 +1,28 @@
+---
+title: "Dylan M O'Meara"
+image: water_usage_timeseries.png
+about: 
+  template: marquee
+  links: 
+    - text: email
+      icon: envelope
+      href: thisisfake@aol.com
+    - text: YouTube
+      icon: youtube
+      href: https://youtube.com/
+  id: ppc
+---
+
+:::{#ppc}
+## Skills
+- Amatuer Magician
+- Can run a 15 minuet mile
+- Able to drive a manual car
+
+## Education
+- Mathematics Major
+- Interior Design Minor
+- GPA : 5.0
+
+:::
+
